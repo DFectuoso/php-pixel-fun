@@ -30,7 +30,5 @@ imagepng( $myImg );
 
 //release
 imagecolordeallocate($rectangleColour);
-//hola
 imagecolordeallocate($background);
 imagedestroy($myImg);
-
